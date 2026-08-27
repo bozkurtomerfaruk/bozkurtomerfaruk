@@ -2,7 +2,7 @@
 
 🚀 **Mechanical Engineering | Manufacturing | AI & CAD | Data Analysis | Python**
 
-📍 Neuss, Germany | [LinkedIn](https://www.linkedin.com/in/bozkurtomerfaruk/)
+📍 Düsseldorf, Germany | [LinkedIn](https://www.linkedin.com/in/bozkurtomerfaruk/)
 
 ---
 
