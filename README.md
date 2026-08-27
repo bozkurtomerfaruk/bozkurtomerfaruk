@@ -73,10 +73,6 @@ Research and data analysis for an **AI-supported Spine Orthosis CAD Software** p
 
 Outbound operations, quality control and process support.
 
-### 🛍 Zalando
-**Sales Representative | Düsseldorf, Germany**
-
-Sales performance, customer relations and client engagement.
 
 ### 📈 ebebek
 **E-Commerce Sales Intern | Istanbul, Turkey**
