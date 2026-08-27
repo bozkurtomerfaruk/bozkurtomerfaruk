@@ -12,7 +12,7 @@ I'm a Mechanical Engineering student with hands-on experience in **manufacturing
 
 My background combines engineering knowledge with experience in **Lean Manufacturing, process optimization and data-driven problem solving**.
 
-I have gained professional experience at **Mercedes-Benz, Ford, Amazon, Zalando, TÜBİTAK and ebebek**.
+I have gained professional experience at **Mercedes-Benz, Ford, Amazon, TÜBİTAK and ebebek**.
 
 I'm particularly interested in combining **engineering, software and artificial intelligence** to develop practical and efficient technical solutions.
 
